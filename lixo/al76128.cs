@@ -1,8 +1,9 @@
 ﻿using System;
 
-public class Class1
+public class al76128
 {
-	public Class1()
-	{
-	}
+    public al76128()
+    {
+        Console.WriteLine("Al76128");
+    }
 }
